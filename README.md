@@ -19,7 +19,7 @@ A full-stack backend REST API with:
 - ✅ **Admin Dashboard**: Manage users and orders
 
 ### Security
-- ✅ Basic Authentication
+- ✅ JWT Authentication
 - ✅ Role-Based Access Control (RBAC)
 - ✅ Password Encryption (BCrypt)
 - ✅ Input Validation
